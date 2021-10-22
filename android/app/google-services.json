@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602795140726",
+    "project_id": "fir-auth-5cdf1",
+    "storage_bucket": "fir-auth-5cdf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602795140726:android:8014f566ed214d92eba157",
+        "android_client_info": {
+          "package_name": "com.example.fingurprintauthentification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602795140726-biumsc5814te3vfbm2qmo4ip8au23lv3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fingurprintauthentification",
+            "certificate_hash": "60efc346f12a8eca7674a888279e7bfe7cadec4f"
+          }
+        },
+        {
+          "client_id": "602795140726-950a78iuvjratnc1nc7vghb5qm237t2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqVx9Rj0Y0zGAau2uWm4oTLe8G4aAa38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602795140726-950a78iuvjratnc1nc7vghb5qm237t2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
